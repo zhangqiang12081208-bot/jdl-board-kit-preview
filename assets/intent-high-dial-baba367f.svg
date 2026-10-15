@@ -1,0 +1,34 @@
+<svg preserveAspectRatio="none" overflow="visible" style="display: block;" width="105" height="54" viewBox="0 0 105 54" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 28">
+<mask id="mask0_0_5" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="105" height="54">
+<rect id="Rectangle 6" width="105" height="54" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_0_5)">
+<circle id="Ellipse 3" cx="52" cy="47" r="46" fill="url(#paint0_linear_0_5)"/>
+<path id="Polygon 1" d="M100.411 36.3434L91.5045 42.7942L89.4662 35.2712L100.411 36.3434Z" fill="#31DB86"/>
+<g id="Ellipse 4" filter="url(#filter0_d_0_5)">
+<path d="M92 47C92 69.0914 74.3152 87 52.5 87C30.6848 87 13 69.0914 13 47C13 24.9086 30.6848 7 52.5 7C74.3152 7 92 24.9086 92 47Z" fill="url(#paint1_linear_0_5)"/>
+</g>
+</g>
+</g>
+<defs>
+<filter id="filter0_d_0_5" x="9" y="1" width="87" height="88" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="-2"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.05 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_5"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_5" result="shape"/>
+</filter>
+<linearGradient id="paint0_linear_0_5" x1="52" y1="1" x2="52" y2="93" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F3F8FF"/>
+<stop offset="1" stop-color="#DDEFFD" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint1_linear_0_5" x1="52.0123" y1="28.9512" x2="52.0123" y2="53.8293" gradientUnits="userSpaceOnUse">
+<stop stop-color="white"/>
+<stop offset="1" stop-color="#F1F8FE"/>
+</linearGradient>
+</defs>
+</svg>
